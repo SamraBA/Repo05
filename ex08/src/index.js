@@ -1,8 +1,8 @@
 function main(){
     // Only change code below this line
 
-    var lastName = "Doe";
-    var firstLetterOfLastName = lastName[0];
+    var lastName = "Doe"
+    var lastNameLength = lastName.length;
     
     
 
